@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drawer exmample</string>
+    <string name="ic_arrow_back">Back button</string>
+    <string name="next">Next</string>
+    <string name="start_app">Start using the app</string>
+    <string name="welcome_image_description">App icon</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_menu_description">Menu navigation button</string>
+    <string name="drawer_home_description">Home navigation button</string>
+    <string name="drawer_settings_description">Settings navigation button</string>
+    <string name="drawer_info_description">About navigation button</string>
+</resources>
