@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Drawer exmample</string>
+    <string name="app_name">Drawer example</string>
     <string name="ic_arrow_back">Back button</string>
     <string name="next">Next</string>
     <string name="start_app">Start using the app</string>
